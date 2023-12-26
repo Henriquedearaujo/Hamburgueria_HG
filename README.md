@@ -37,4 +37,8 @@ para personalizar a aparência do carousel;
 
 > aplicar classes CSS específicas para ajustar o espaçamento, o tamanho da fonte e outras propriedades para otimizar a visualização do site em diferentes resoluções de tela;
 
-> melhorar a navegação responsiva do site, garantindo que os elementos de menu, como links, se comportem adequadamente em diferentes dispositivos. 
+> melhorar a navegação responsiva do site, garantindo que os elementos de menu, como links, se comportem adequadamente em diferentes dispositivos.
+
+> criar formulario e fazer a validação do campos
+
+> criar campo fale conosco
