@@ -1,0 +1,88 @@
+body {
+    font-family: 'Lilita One', sans-serif;
+}
+
+.navbar {
+    background-color: #000000;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #f00707;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.carousel-item img {
+    width: 1500px;
+    height: 740px;
+}
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: 'Lilita One', sans-serif;
+}
+
+#sobre-o-restaurante,
+#cardapio {
+    background-color: #f0edc2;
+}
+
+.text-colored {
+    color: #f00707
+}
+
+.nav-cardapio .nav-link.active,
+#fale-conosco button {
+    background-color: #f00707;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: #000000;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+textarea {
+    width: 300px;
+    height: 150px;
+    resize: none;
+}
+
+.error {
+    color: red
+}
+
+@media (max-width: 1024px) {
+    .carousel-item img {
+        width: 100%;
+    }
+}
+
+@media (max-width: 500px) {
+    .carousel-item img {
+        width: 500px;
+        height: 360px;
+        width: 100%;
+    }
+
+    #cabecalho .nav .nav-link.active {
+        margin-top: 4px;
+    }
+}
