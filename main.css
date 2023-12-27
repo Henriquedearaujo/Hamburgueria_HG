@@ -19,8 +19,9 @@ body {
 }
 
 .carousel-item img {
-    width: 1500px;
-    height: 740px;
+    width: 1200px;
+    height: 630px;
+    width: 100%;
 }
 
 .navbar-toggler {
@@ -75,7 +76,7 @@ textarea {
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 540px) {
     .carousel-item img {
         width: 500px;
         height: 360px;
